@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1690814876 source:c:\users\hp\desktop\practice\day2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header2.h"
+
+1690727490 c:\users\hp\desktop\practice\day2\header2.h
+
+1690814997 source:c:\users\hp\desktop\practice\day2\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<String.h>
+
